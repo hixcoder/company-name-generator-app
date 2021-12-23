@@ -8,7 +8,7 @@ This project is my second one .
 
 The main resource that I used for this project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Lab: Write your first Flutter app](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1#1)
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs)
